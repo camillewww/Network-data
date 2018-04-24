@@ -4,11 +4,8 @@ I put some network data analysis work I have done here and will be updated frequ
 
 For now, I have:
                
-               1. Les Miserables Network : 
-               https://github.com/camillewww/Network-data/blob/master/Lesmis.pdf
+1. Les Miserables Network : https://github.com/camillewww/Network-data/blob/master/Lesmis.pdf
  
- 
-
-               2. Bitcoin Alpha Trusted Network:
+2. Bitcoin Alpha Trusted Network:
                https://github.com/camillewww/Network-data/blob/master/Bitcoin%20Trust%20Network%20Project.pdf
                
